@@ -69,7 +69,7 @@ calculation of the limb-darkening coefficients even for stars cooler than 3500 K
 
 #### Angles and times
 
-PyLighrcurve 4.0 includes flexible objects for converting different expressions of 
+PyLightcurve 4.0 includes flexible objects for converting different expressions of 
 angles (e.g. '+47:12:34.05' to degrees) and of timing systems (e.g. HJD_UTC to BJD_TDB).
 
 # Installation
